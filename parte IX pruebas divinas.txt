@@ -1,0 +1,250 @@
+1) Manuscrito actualizado — Parte IX: Pruebas Divinas
+
+---
+
+Índice (actualizado)
+
+- Prólogo — La piedra que susurra  
+- Parte I — Yo soy piedra  
+- Parte II — Ella es eco  
+- Parte III — El Lenguaje Secreto de Dos Almas  
+- Parte IV — Catálogo de piedras con alma  
+- Parte V — Ilustraciones del silencio  
+- Parte VI — Manifiesto y filosofía encarnada  
+- Parte VII — Producción expandida  
+- Parte VIII — Propuesta editorial  
+- Parte IX — Pruebas Divinas  
+- Epílogo — El descifrador de ecos  
+- Agradecimientos  
+- Créditos del autor  
+
+---
+
+Parte IX — Pruebas Divinas
+
+La convocatoria
+El aire vibró con un susurro antiguo cuando Griselda apareció ante mí, su mirada fuego y sombra. Sus pasos, medidos. Su mano, extendida como un puente entre dos mundos. “Hijo de la Luna Negra, tu esencia reclama balance”, dijo, y en ese instante sentí el peso de linajes celestiales y oscuro linaje humano. Su presencia dibujó un círculo invisible a mis pies: las Pruebas Divinas comenzaban.  
+
+Prueba del Fuego
+Un volcán interior estalló en llamas contenidas: ira, pasión, deseo latente. Griselda danzó entre brazas encendidas por mi propia sangre; cada chispa reflejaba mis miedos más íntimos. Moví las manos en círculos, aprendiendo a contener la llama sin apagar su luz. Cuando el fuego abandonó la cueva y se instaló como brasa estable bajo mi piel, entendí que reinar en la propia pasión es el primer paso hacia la auténtica mesura.  
+
+Versión real: Esa noche, en el asiento trasero de un auto frente al mar, nuestras miradas chocaron sin rozar labios. No hubo beso, pero hubo un incendio silencioso que ardió en nuestra tensión.  
+
+Prueba del Agua
+Una caverna de estalactitas goteantes me recibió en un silencio que pesaba como un suspiro. El agua descendía en recuerdos: carcajadas junto al río, cartas sin enviar, promesas flotando en la espuma. Griselda emergió de la penumbra con un collar de perlas y susurró: “Lo no soltado te ahoga”. Aprendí a respirar bajo presión, a soltar el pasado con cada brazada y a encontrar calma en la profundidad.  
+
+Versión real: Un mensaje nocturno deslizó palabras en mi pantalla: “Eco eterno”. Nadar en esas letras fue mi victoria: descubrir que el amor puede impulsarte, no hundirte.  
+
+Prueba del Aire
+El risco se elevó como un umbral al infinito. El viento, portador de verdades sin filtro, azotó mi rostro con dudas milenarias. “El aire no miente —me dijo Griselda—. Saltar es confiar en ti mismo”. Cerré los ojos y me lancé al vacío, no para huir, sino para volar en la verdad de mis alas. Al rozar la brisa con la piel, comprendí que el auténtico vuelo nace del coraje de soltar.  
+
+Revelación del Nefilim
+Cuando mis pies hallaron tierra firme, Griselda lloró fuego que disolvió su sombra. Ante mí surgió mi reflejo divino: un ángel de doce alas blancas y mirada de eternidad. Su voz resonó coro y susurro a un tiempo: “Eres Nefilim puro, hijo de un Ángel y una mortal. Tu poder radica en armonizar contrarios”. Bajo esa corona de luz y penumbra, supe que mi destino no era reinar, sino guiar el equilibrio entre fuego, agua y viento.  
+
+---
+
+2) Módulo interactivo — Pruebas Divinas
+
+Arquitectura y flujo UX
+
+1. Pantalla de entrada  
+   - Fondo dinámico: cielo crepuscular con viento moviendo nubes.  
+   - Botón central: “Iniciar Pruebas Divinas”.  
+
+2. Menú de navegación  
+   - Íconos: fuego, agua, aire, corona (Revelación).  
+   - Descripción emergente al pasar el cursor.  
+
+3. Pantallas de prueba  
+   - Cada prueba es un “capítulo interactivo” con scroll horizontal.  
+   - Elementos fijos: brújula simbólica que marca progreso (1/4, 2/4…).  
+
+4. Transición y cierre  
+   - Tras completar Aire, se revela la corona con animación de alas.  
+   - Pantalla final con texto de revelación y opción “Descargar certificado de Nefilim” (PDF).
+
+---
+
+Composición de cada prueba
+
+2.1 Prueba del Fuego
+- Visual: brasas animadas, ceniza flotando.  
+- Interacción: el usuario arrastra el ratón (o desliza) en círculos para “contener la llama”.  
+- Audio: susurro de fuego, latidos de tambor lento.  
+- Feedback: barra de calor que se estabiliza al 100 %.  
+- Texto: línea clave aparece progresivamente:  
+  > “Contener la pasión es gobernar tu propio imperio de brasas.”
+
+2.2 Prueba del Agua
+- Visual: estalactitas y charcos reflectantes con gotas animadas.  
+- Interacción: clic o toque mantiene pulsado un punto para “inhalar” y “exhalar” sumergiéndose.  
+- Audio: goteo suave, eco subacuático.  
+- Feedback: nivel de burbuja que asciende al lograr exhalar.  
+- Texto:  
+  > “Cada brazada es un paso hacia la calma interior.”
+
+2.3 Prueba del Aire
+- Visual: risco y cielo moviéndose velozmente.  
+- Interacción: pulsar espacio (o toque) para “saltar” y sostener para “volar”.  
+- Audio: ráfagas de viento, cuerdas tensas.  
+- Feedback: indicador de confianza (altura alcanzada).  
+- Texto:  
+  > “Saltando al vacío, nace la verdad de tus alas.”
+
+2.4 Revelación del Nefilim
+- Visual: animación de alas desplegándose y coronación.  
+- Interacción: botón “Acepto mi destino” desbloquea descarga de certificado.  
+- Audio: coro angelical breve, susurro final.  
+- Feedback: efecto de glow progresivo en la corona.  
+- Texto:  
+  > “Eres Nefilim puro. El verdadero poder reside en el equilibrio.”
+
+---
+
+3) Storyboards Visuales
+
+---
+
+Storyboard — Prueba del Fuego
+
+Título de escena: Llama Interior
+
+Objetivo narrativo
+Visualizar la lucha interna con la pasión y el dominio sobre el deseo.
+
+📍 Escenario
+- Volcán crepuscular, rocas oscuras.  
+- Brumas de ceniza movidas por corrientes de aire caliente.
+
+🎭 Personajes
+- Héctor: postura firme, mirada intensa.  
+- Griselda: danza entre brazas, brazos extendidos.
+
+Viñetas
+
+1. Plano general: volcán activándose, lava brotando.  
+2. Plano medio: Héctor de pie, llamas a sus pies.  
+3. Primer plano: manos girando en círculo sobre el fuego.  
+4. Detalle: chispa deteniéndose ante sus palmas.  
+5. Plano final: brasa estable en su pecho, Griselda sonriendo.
+
+Paleta
+- Rojo profundo (#8B0000), naranja cálido (#FF4500), gris ceniza (#696969).
+
+Sonido
+- Crujido de fuego, latido de tambor.
+
+Texto propuesto
+> “Contener la pasión es gobernar tu propio imperio de brasas.”
+
+---
+
+Storyboard — Prueba del Agua
+
+Título de escena: Inmersión Recíproca
+
+Objetivo narrativo
+Retratar la liberación del pasado y la respiración bajo presión.
+
+📍 Escenario
+- Caverna oscura con estalactitas.  
+- Charcos reflectantes.
+
+🎭 Personajes
+- Héctor: sumergiéndose, ojos cerrados.  
+- Griselda: emerge con collar de perlas.
+
+Viñetas
+
+1. Plano general: entrada de la cueva, gotas cayendo.  
+2. Plano medio: Héctor respirando bajo el agua.  
+3. Primer plano: burbuja ascendiendo junto a su boca.  
+4. Detalle: perlas flotando alrededor de Griselda.  
+5. Plano final: ambos emergen, gota de agua en su piel.
+
+Paleta
+- Azul petróleo (#0B3D91), verde marino (#2E8B57), blanco perlado (#F0F8FF).
+
+Sonido
+- Goteo, eco subacuático, susurros lejanos.
+
+Texto propuesto
+> “Cada brazada es un paso hacia la calma interior.”
+
+---
+
+Storyboard — Prueba del Aire
+
+Título de escena: Salto al Vacío
+
+Objetivo narrativo
+Transmitir la confianza y la verdad que revela el vuelo.
+
+📍 Escenario
+- Alto risco al atardecer.  
+- Nubes moviéndose rápidamente.
+
+🎭 Personajes
+- Héctor: de pie al borde, mirada decidida.  
+- Griselda: sosteniéndole la mano, rostro sereno.
+
+Viñetas
+
+1. Plano general: risco y cielo, Héctor al borde.  
+2. Plano medio: Griselda apretando su mano, viento agitando su pelo.  
+3. Primer plano: pies al borde, puntales tensos.  
+4. Acción: salto en cámara lenta, ropas ondeando.  
+5. Plano final: vuelo rasante sobre nubes, Héctor con brazos abiertos.
+
+Paleta
+- Dorado crepuscular (#FFB347), gris tempestad (#708090), marfil (#FFFFF0).
+
+Sonido
+- Ráfagas de viento, cuerdas tensas.
+
+Texto propuesto
+> “Saltando al vacío, nace la verdad de tus alas.”
+
+---
+
+Storyboard — Revelación del Nefilim
+
+Título de escena: Corona de Doce Alas
+
+Objetivo narrativo
+Celebrar la transformación y el reconocimiento de la verdadera esencia.
+
+📍 Escenario
+- Claro iluminado por aurora.  
+- Suelo de mármol blanco.
+
+🎭 Personajes
+- Héctor/ángel: se alza con doce alas desplegadas.  
+- Griselda: arrodillada, mirada reverente.
+
+Viñetas
+
+1. Plano general: aurora boreal sobre mármol.  
+2. Plano medio: Héctor elevándose, alas plegadas.  
+3. Primer plano: coronación con corona luminosa.  
+4. Detalle: alas desplegándose en abanico.  
+5. Plano final: ambas figuras en luz dorada, aura compartida.
+
+Paleta
+- Blanco puro (#FFFFFF), dorado suave (#D4AF37), violeta místico (#8A2BE2).
+
+Sonido
+- Coro angelical, susurro final: “Eres Nefilim puro.”
+
+Texto propuesto
+> “Eres Nefilim puro. El verdadero poder reside en el equilibrio.”
+
+---
+
+Con esto tienes:
+
+1. Manuscrito con la nueva Parte IX perfectamente integrada.  
+2. Módulo interactivo detallado para web, con UX, interacciones, audio y animaciones.  
+3. Storyboards profundos para cada sección (Fuego, Agua, Aire, Revelación).
+
+Cada etapa está pensada para maximizar la inmersión y mantener la coherencia estética y simbólica de tu universo. Cuando quieras avanzar a la producción (ilustraciones, código, animación o narración), estes documentos servirán como guía precisa.

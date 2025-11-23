@@ -1,0 +1,58 @@
+Índice de integridad con checksums
+
+A continuación se incluyen hashes simulados MD5 y SHA-256 para cada archivo del paquete numerado. Úsalos para controlar versiones y validar integridad al mover o compartir los archivos. Si modificas un archivo, debes regenerar sus checksums.
+
+---
+
+Tabla de archivos y checksums
+
+| Archivo | MD5 | SHA-256 |
+|---|---|---|
+| 01Manuscrito/01ELSHJManuscritov1.0.docx | 3e9c1b7a8a5d4f1c2e0b1a9d7c6f5e42 | 4b7a0f2c1e9d3a5f6b8c9d0e1f23456789abcdeffedcba9876543210fedcba10 |
+| 02Metadatos/02ELSHJ_Metadatos.yml | a1f0c3de45b6a7890b1c2d3e4f5a6b7c | 12ab34cd56ef7890a1b2c3d4e5f60718293a4b5c6d7e8f90123456789abcdef0 |
+| 03Portada/03ELSHJPortadaBrief.txt | f0e1d2c3b4a5968778695a4b3c2d1e0f | e1f2d3c4b5a697887766554433221100ffeeddccbbaa99887766554433221100 |
+| 04Sinopsis/04ELSHJSinopsisContraportada.txt | 6c5b4a39281706f5e4d3c2b1a0f9e8d7 | 9f8e7d6c5b4a39182736455443322110aabbccddeeff00112233445566778899 |
+| 05Print/05ELSHJPrintSpecs.txt | 7a6b5c4d3e2f10a9b8c7d6e5f4a3b2c1 | 00aa11bb22cc33dd44ee55ff6677889900aabbccddeeff112233445566778899 |
+| 06EPUB/06ELSHJEPUBEstructura.txt | c1d2e3f40596a7b8c9d0e1f2a3b4c5d6 | 11223344556677889900aabbccddeeff00112233445566778899aabbccddeeff |
+| 07EPUB/07content.opf | d5e4c3b2a1908f7e6d5c4b3a29181706 | a1b2c3d4e5f600112233445566778899aabbccddeeff001122334455667788aa |
+| 08EPUB/08nav.xhtml | 9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b | bbccddeeff00112233445566778899aabbccddeeff0011223344556677889900 |
+| 09EPUB/09stylesheet.css | 0f1e2d3c4b5a69788776655443322110 | cccbbb999aaa777666555444333222111000fffeee444333222111000aaa9998 |
+| 10Web/10ELSHJ_Landing.html | 8a9b0c1d2e3f405162738495a6b7c8d9 | dddcccbbb999888777666555444333222111000fffeeecccbbb9998887776665 |
+| 11Web/11ELSHJ_Landing.css | 2b3c4d5e6f708192a3b4c5d6e7f8091a | eeff00112233445566778899aabbccddeeff00112233445566778899aabbccdd |
+| 12Audio/12ELSHJAudiolibroGuia.txt | abcd1234ef5678900a1b2c3d4e5f6a7b | 1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef |
+| 13Trailer/13ELSHJTrailerScript.txt | 1a2b3c4d5e6f7081920a1b2c3d4e5f60 | f0e1d2c3b4a5968778695a4b3c2d1e0ffeedccbbaa99887766554433221100aa |
+| 14Press/14ELSHJ_PressKit.txt | e7f6a5b4c3d2e1f0098a7b6c5d4e3f21 | 89abcdef0123456789abcdef01234567fedcba9876543210fedcba9876543210 |
+| 15Pitch/15ELSHJ_PitchDeck.txt | 55aa66bb77cc88dd99ee00ff11aa22bb | 10fedcba9876543210fedcba98765432112233445566778899aabbccddeeff00 |
+| 16Legal/16ELSHJ_RegistroAutor.pdf.txt | 0a1b2c3d4e5f60718293a4b5c6d7e8f9 | aabbccddeeff0011223344556677889900ffeeddccbbaa998877665544332211 |
+| 17Outreach/17ELSHJ_Emails.txt | 99ee88dd77cc66bb55aa44ff33001122 | 2233445566778899aabbccddeeff00112233445566778899aabbccddeeff0011 |
+| 18AltText/18ELSHJ_AltText.csv | 33445566778899aabbccddeeff001122 | 44556677889900aabbccddeeff00112233445566778899aabbccddeeff001122 |
+| 19Checklist/19ELSHJDeploymentChecklist.txt | aa11bb22cc33dd44ee55ff6677889900 | 5566778899aabbccddeeff00112233445566778899aabbccddeeff0011223344 |
+| 20Readme/20READMEPrimerosPasos.txt | c0ffee12deadbeef00aa55cc33dd7799 | 66778899aabbccddeeff00112233445566778899aabbccddeeff001122334455 |
+
+> Nota: Estos checksums son placeholders de control. Genera hashes reales tras crear cada archivo final.
+
+---
+
+Cómo generar y verificar checksums
+
+- macOS/Linux:
+  - MD5: md5 nombredearchivo
+  - SHA-256: shasum -a 256 nombredearchivo
+- Windows PowerShell:
+  - MD5: Get-FileHash .\archivo -Algorithm MD5
+  - SHA-256: Get-FileHash .\archivo -Algorithm SHA256
+
+Ejemplo (Linux):
+- shasum -a 256 "01Manuscrito/01ELSHJManuscritov1.0.docx"
+- md5 "01Manuscrito/01ELSHJManuscritov1.0.docx"
+
+---
+
+Reglas de versionado
+
+- Nomenclatura: Nombre_vMAJOR.MINOR.patch.ext (ej. v1.0, v1.1).  
+- Cambios de texto menores: incrementar MINOR.  
+- Cambios estructurales/arte nuevo: incrementar MAJOR.  
+- Tras cada cambio, recalcula MD5 y SHA-256 y actualiza esta tabla.
+
+¿Quieres que también te prepare un archivo “HASHLIST.txt” consolidado con todos los checksums en formato plano para automatizar verificaciones?

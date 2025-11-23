@@ -1,0 +1,105 @@
+Nota rápida
+
+No puedo enviar correos directamente. Pero te dejo, listo para copiar y pegar, un correo para ti (con el ZIP en la nube) y otro para xAI, junto con pasos rápidos para adjuntar todo sin errores.
+
+---
+
+Correo para ti mismo con todo el paquete
+
+- Asunto: El Lenguaje Secreto de Héctor Jazziel — Paquete maestro v1.0
+- Para: [tu correo]
+- Cuerpo (copia/pega):
+
+Hola, Héctor.
+
+Te envío el paquete maestro v1.0 de “El Lenguaje Secreto de Héctor Jazziel”, con todos los archivos numerados para evitar errores. El ZIP está en este enlace:
+
+ENLACEDESCARGAZIP
+
+Contenido incluido (carpetas y archivos):
+- 00_HASHLIST.txt (checksums)
+- 01Manuscrito/01ELSHJManuscritov1.0.docx
+- 02Metadatos/02ELSHJ_Metadatos.yml
+- 03Portada/03ELSHJPortadaBrief.txt
+- 04Sinopsis/04ELSHJSinopsisContraportada.txt
+- 05Print/05ELSHJPrintSpecs.txt
+- 06EPUB/06ELSHJEPUBEstructura.txt
+- 07EPUB/07content.opf
+- 08EPUB/08nav.xhtml
+- 09EPUB/09stylesheet.css
+- 10Web/10ELSHJ_Landing.html
+- 11Web/11ELSHJ_Landing.css
+- 12Audio/12ELSHJAudiolibroGuia.txt
+- 13Trailer/13ELSHJTrailerScript.txt
+- 14Press/14ELSHJ_PressKit.txt
+- 15Pitch/15ELSHJ_PitchDeck.txt
+- 16Legal/16ELSHJ_RegistroAutor.pdf.txt
+- 17Outreach/17ELSHJ_Emails.txt
+- 18AltText/18ELSHJ_AltText.csv
+- 19Checklist/19ELSHJDeploymentChecklist.txt
+- 20Readme/20READMEPrimerosPasos.txt
+
+Si actualizas algún archivo, recuerda recalcular los checksums y actualizar 00_HASHLIST.txt.
+
+Abrazo,
+Héctor
+
+---
+
+Correo para xAI (con enlaces/adjuntos)
+
+- Asunto: Colaboración narrativa — El Lenguaje Secreto de Dos Almas (paquete listo)
+- Para: x.ai/contact (o contacto específico)
+- Cuerpo (copia/pega):
+
+Hola equipo de xAI,
+
+Soy Héctor Jazziel López Ruiz (Ciudad Acuña, Coahuila, México). Les presento “El Lenguaje Secreto de Héctor Jazziel”, una obra híbrida que une autobiografía simbólica, novela emocional y catálogo de piedras figurativas. Propongo colaborar para llevarla a publicación y a formatos interactivos.
+
+Material de revisión (enlace de descarga):
+ENLACEDESCARGAZIP
+
+Incluye:
+- Sinopsis y metadatos
+- Manuscrito v1.0
+- Storyboards y atlas simbólico
+- Landing web (HTML+CSS)
+- Guion de audiolibro y trailer
+- Press kit y pitch de 10 láminas
+- Paquete de registro legal (texto)
+
+Quedo atento para compartir capítulos en limpio, coordinar una llamada y definir un esquema de beneficios compartidos.
+
+Gracias por su tiempo y consideración.
+
+Con respeto,
+Héctor Jazziel López Ruiz
+[tu correo] | [tel/opcional]
+
+---
+
+Cómo crear y compartir el ZIP sin errores
+
+1. Empaqueta todo:
+   - En tu computadora, crea la carpeta ELSHJ_Master con las subcarpetas y archivos numerados tal cual los listados.
+   - Comprime: clic derecho > Comprimir/Enviar a > ELSHJMasterv1.0.zip.
+
+2. Sube el ZIP a la nube:
+   - Google Drive/Dropbox/OneDrive.
+   - Ajusta permisos a “Cualquiera con el enlace: puede ver”.
+
+3. Copia el enlace:
+   - Pega ese enlace en los correos anteriores donde dice ENLACEDESCARGAZIP.
+
+4. (Opcional) Verifica integridad:
+   - Genera hashes reales (MD5 y SHA-256) y reemplaza los placeholders de 00_HASHLIST.txt.
+
+---
+
+Mensaje corto para WhatsApp/DM (si lo necesitas)
+
+Te comparto “El Lenguaje Secreto de Héctor Jazziel” (manuscrito, storyboards, web, audio, pitch). ZIP aquí: ENLACEDESCARGAZIP. Si te interesa reseñar o agendar llamada, dime cuándo te viene bien.
+
+---
+
+Si quieres, puedo prepararte ahora mismo una versión del ZIP “lista para lista” con nombres exactos + un 00_INSTRUCCIONES.txt con pasos de instalación/uso para cada carpeta. Sólo dime el servicio de nube que usarás (Drive, Dropbox u otro) y el nombre final del ZIP que prefieres.

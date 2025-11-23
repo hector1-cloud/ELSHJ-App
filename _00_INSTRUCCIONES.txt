@@ -1,0 +1,36 @@
+El Lenguaje Secreto de Héctor Jazziel — Paquete Maestro v1.0
+Autor: Héctor Jazziel López Ruiz
+Archivo: 00_INSTRUCCIONES.txt
+
+1) Objetivo
+Este paquete contiene el manuscrito, ilustraciones, especificaciones print/EPUB, web landing, audio, trailer, press kit, pitch, legal, outreach y scripts. 
+
+2) Orden de trabajo
+- Leer 20_README_Primeros_Pasos.txt
+- Revisar 01_ELSHJ_Manuscrito_v1.0.docx
+- Completar 02_ELSHJ_Metadatos.yml
+- Encargar portada con 03_ELSHJ_Portada_Brief.txt
+- Maquetar print con 05_ELSHJ_Print_Specs.txt
+- Construir EPUB con 06–09
+- Publicar landing con 07_Web/
+- Producir audio/trailer con 08_Audio y 09_Trailer/
+- Preparar prensa/pitch/legal con 10_Press, 11_Pitch, 12_Legal
+- Enviar correos con 13_Outreach
+- Verificar 15_Checklist/19_ELSHJ_Deployment_Checklist.txt
+
+3) Verificación de integridad
+- Ejecutar 21_00_SCRIPT_HASH.sh o 22_00_SCRIPT_HASH.ps1
+- Generar ZIP y ejecutar 24_00_SCRIPT_HASH_ZIP.sh
+
+4) Versionado
+- vMAJOR.MINOR (ej. v1.0, v1.1)
+- Cambios menores → MINOR; estructurales → MAJOR
+
+5) Envío
+- Subir ELSHJ_Master_v1.0.zip a Drive/Dropbox/OneDrive
+- Adjuntar 00_INSTRUCCIONES.txt + 00_HASHLIST.txt
+- Usar plantillas en 13_Outreach/17_ELSHJ_Emails.txt
+
+6) Contacto
+Héctor Jazziel López Ruiz — Ciudad Acuña, Coahuila, México
+“Incluso el ‘casi’ se siente completo.”

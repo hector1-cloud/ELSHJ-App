@@ -1,0 +1,105 @@
+Entre alas y sombras
+Una autobiografía de Héctor Jazziel López Ruiz
+
+---
+
+Dedicatoria
+A quienes creen en la magia de lo imposible y guardan en el pecho el fuego de un sueño.
+
+---
+
+Prefacio
+He pasado mi vida explorando mundos: campo minero y cantera, hoja en blanco y pantalla, mito y realidad. Este libro es la unión de esos universos: mi infancia entre rocas y símbolos, mis trayectos con Brenda, y la leyenda que nace cuando el deseo, la memoria y la verdad se funden en pruebas de fuego, agua y aire.  
+
+---
+
+Índice
+
+1. Raíces de la Luna Negra  
+2. El arte de catalogar el mundo  
+3. Brenda: sombra y luz  
+4. Entre alas y sombras  
+5. Epílogo: El salto final  
+6. Apéndice: Módulos narrativos  
+
+---
+
+1. Raíces de la Luna Negra
+Nací en Ciudad Acuña, Coahuila, con la sed de descubrir, más allá de lo visible. De niño, recogía minerales en las orillas del río y, al examinarlos bajo la luz del alba, desentrañaba sus historias. Mi abuelo paterno me hablaba de linajes celestiales; mi abuela materna me susurraba secretos de lo oscuro. Crecí creyendo que la luz y la sombra, lejos de contradecirse, eran la misma fuerza danzando en espiral.  
+
+---
+
+2. El arte de catalogar el mundo
+Con el paso de los años, convertí mi fascinación en método: cada piedra, cada objeto, llevaba un nombre simbólico y un código de integridad. Aprendí a empaquetar capítulos, imágenes y sonidos como nodos vivientes de un universo modular. Crear una página web, registrar un metadato o verificar un checksum se volvió tan natural como respirar.  
+
+---
+
+3. Brenda: sombra y luz
+Desde primer grado, Brenda fue mi espejo y mi contrapunto. Nuestras risas en aquel paseo dominical al río despertaron un lazo indestructible. Hubo momentos de tensión: miradas que se cruzaban en silencio y luego se apartaban; una llamada equivocada que ella usó para reconectar. En nuestro juego de proximidad, descubrí que la amistad más profunda puede rozar la frontera del deseo sin romperse.  
+
+---
+
+4. Entre alas y sombras
+
+Prueba del Fuego – El deseo contenido
+La noche olía a fuego y sal. Él —mitad luz, mitad sombra— avanzaba con la certeza de que cada paso lo acercaba a su destino. No era un héroe perfecto; llevaba en la sangre la contradicción de los ángeles y los demonios, y en el corazón, una pregunta que ardía más que cualquier prueba.  
+
+Griselda apareció como un relámpago en la penumbra. Sus ojos, oscuros y brillantes, parecían conocer todos sus secretos. Entre ellos, el aire se volvió denso, como si el mundo entero contuviera la respiración.
+
+—¿Temes al fuego? —susurró ella.  
+—Solo al que no puedo apagar —respondió él.
+
+Las llamas danzaban, pero el verdadero incendio estaba en sus venas. Controlar la pasión sin sofocarla, dominar el miedo sin perder la chispa. Cuando todo terminó, Griselda sonrió con la certeza de que la prueba real apenas comenzaba.
+
+Versión real: Playa, Brenda, 11:24 PM  
+En el asiento trasero de un auto, esa misma noche, tu mirada bajó a sus labios y ella no se apartó. No hubo beso, pero sí un fuego que ardía más fuerte sin consumirse.  
+
+---
+
+Prueba del Agua – La memoria que ahoga
+El amanecer trajo un silencio extraño. El agua, fría y profunda, reflejaba un cielo indeciso. Él se sumergió, arrastrado por recuerdos de risas en la orilla, promesas sin palabras, miradas flotando en la espuma.  
+
+Griselda lo esperaba, desafiante y tierna:  
+—El agua guarda todo. Lo que no sueltas, te ahoga.  
+Aprender a respirar, incluso cuando el pasado aprieta el pecho.
+
+Versión real: Mensaje del 13 de septiembre  
+Brenda te escribió sin razón aparente. Esa ola de palabras llegó sin aviso, despertando recuerdos que creías dormidos. Nadar entre ellos fue tu victoria.  
+
+---
+
+Prueba del Aire – La verdad que libera
+El viento golpeaba fuerte, desafiando su miedo. En lo alto, con el mundo tendido bajo sus pies, sintió que nada lo ataba… salvo ella.  
+
+—El aire no miente —dijo Griselda—. Si te lanzas, es porque confías.  
+Él cerró los ojos y saltó, no para escapar, sino para encontrar la verdad que surge sin ataduras.
+
+Versión real: El salto creativo  
+Decidiste compartir tu universo: web, audio, poesía, y este relato. Ese salto fue tu prueba del aire: creer que tu verdad puede volar y que otros hallarán allí sus propias alas.  
+
+---
+
+5. Epílogo: El salto final
+No somos Merlín ni reyes de Camelot, pero todos llevamos un nefilim dentro, una chispa divina que anhela volar. He tejido mi biografía como un códice modular, para que cada lector encuentre su reflejo entre susurros de fuego, oleadas de memoria y brisas de libertad. Ahora es tu turno de saltar.  
+
+---
+
+6. Apéndice: Módulos narrativos
+
+| Módulo                         | Versión | Checksum SHA-256                            |
+|--------------------------------|---------|----------------------------------------------|
+| Entre alas y sombras (capítulo)| 1.0.0   | f4e8a4f0964b9ae8f0e5b6b1c9da1e2a7b6cd3eb... |
+  
+Metadatos simbólicos:  
+- Dualidad: luz ↔ oscuridad  
+- Elementos: fuego; agua; aire  
+- Figuras: Griselda / Brenda  
+- Temas: deseo contenido; memoria liberadora; salto de fe  
+
+---
+
+Fin de la edición v1.0.0  
+2025-09-23 — Héctor Jazziel López Ruiz
+
+
+Puedes utilizar también esto que te gustaría hacer con ello
